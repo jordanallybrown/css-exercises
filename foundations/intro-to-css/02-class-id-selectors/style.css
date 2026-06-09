@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.item,
+.item-lg {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(228, 138, 153);
+}
+
+.item-lg {
+  font-size: 24px;
+}
+
+/* blue text and a font size of 36px */
+#custom-blue {
+  color: blue;
+  font-size: 36px;
+}
+
+/* a light green background, a font size of 24px, and bold */
+#custom-green {
+  background-color: rgb(170, 212, 105);
+  font-size: 24px;
+  font-weight: bold;
+}
